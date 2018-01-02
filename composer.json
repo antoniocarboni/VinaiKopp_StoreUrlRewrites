@@ -8,8 +8,5 @@
             "name": "Vinai Kopp",
             "email": "vinai@netzarbeiter.com"
         }
-    ],
-    "require": {
-        "magento-hackathon/magento-composer-installer": "^1"
-    }
+    ]
 }
